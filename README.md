@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinaysiripuram2
-- 👀 I’m interested in coding and i want to learn cpoding
+- 👀 I’m interested in coding and i want to learn coding
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to get a job in software field as a program analyst or else developer field
 
